@@ -6,18 +6,17 @@ Bu projede, öğrencilerin çeşitli demografik ve akademik özelliklerine bakar
 
 ## 📁 Veri Seti
 
-Kullandığım veri seti, Kaggle üzerinde yayında olan öğrenci başarı verilerini içeriyor.   
-📌 [Student Habits and Academic Performance Dataset]([https://www.kaggle.com/code/talhayldz/student-performance-modeling-87](https://www.kaggle.com/datasets/aryan208/student-habits-and-academic-performance-dataset))
-
+Kullandığım veri seti, Kaggle üzerinde yayında olan öğrenci başarı verilerini içeriyor.  
+📌 [Student Habits and Academic Performance Dataset](https://www.kaggle.com/datasets/aryan208/student-habits-and-academic-performance-dataset)
 
 ---
 
 ## ⚙️ Kullandığım Teknolojiler
 
-- Python 3
-- pandas, numpy
-- scikit-learn
-- seaborn, matplotlib
+- Python 3  
+- pandas, numpy  
+- scikit-learn  
+- seaborn, matplotlib  
 
 ---
 
@@ -33,13 +32,14 @@ Kullandığım veri seti, Kaggle üzerinde yayında olan öğrenci başarı veri
 
 3. **Modelleme**  
    - Tahmin modeli olarak **Linear Regression** algoritmasını kullandım.  
-   - Veriyi eğitim ve test olmak üzere `train_test_split` ile ayırdım.  
+   - Veriyi eğitim ve test olarak `train_test_split` ile ayırdım.  
    - Modeli eğittikten sonra tahmin sonuçlarını inceledim.
 
 4. **Model Değerlendirme**  
-   - Aşağıdaki regresyon metriklerini kullandım:
-     - R² (R-kare) skoru
-     - Mean Absolute Error (MAE)
-     - Mean Squared Error (MSE)
+   - Aşağıdaki regresyon metriklerini kullandım:  
+     - R² (R-kare) skoru  
+     - Mean Absolute Error (MAE)  
+     - Mean Squared Error (MSE)  
 
 ---
+
