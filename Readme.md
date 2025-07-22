@@ -6,9 +6,8 @@ Bu projede, öğrencilerin çeşitli demografik ve akademik özelliklerine bakar
 
 ## 📁 Veri Seti
 
-Kullandığım veri seti, Kaggle üzerinde yayında olan öğrenci başarı verilerini içeriyor.  
-Ben bu projeyi şu notebook üzerinden geliştirdim:  
-📌 [Student Performance Modeling – Kaggle Notebook](https://www.kaggle.com/code/talhayldz/student-performance-modeling-87)
+Kullandığım veri seti, Kaggle üzerinde yayında olan öğrenci başarı verilerini içeriyor.   
+📌 [Student Habits and Academic Performance Dataset]([https://www.kaggle.com/code/talhayldz/student-performance-modeling-87](https://www.kaggle.com/datasets/aryan208/student-habits-and-academic-performance-dataset))
 
 
 ---
